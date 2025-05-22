@@ -1,6 +1,6 @@
 Controle de versões
 
-Aluno: Cauã Felipe Mota Paiva
+Aluno: Cauã Demofilo Gonçalves Borges
 
 Desafio01:
 •	Com suas palavras defina o que é um sistema de controle de versões (VCS)? (Mínimo 10 linhas)
