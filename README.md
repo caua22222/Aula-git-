@@ -24,6 +24,14 @@ Desafio01:
 •	-Os sistemas de controle de versão centralizados mais comuns são o Concurrent Versions System (CVS), o Perforce e o Subversion (SVN). Há também o Microsoft Team Foundation Server (TFS), que agora é conhecido como Azure DevOps Server.
 
 
+	Desafio 2:
+•	Criar uma nova branch em seu repositório local com o nome “desafio2”, responda as perguntas no documento README.md:
+•	Com suas palavras defina o que é programação orientada a objetos (POO) e cite seus pilares? (mínimo 10 linha)
+•	Programação Orientada a objetos, ou POO, e um jeito de programar que ajuda a deixar o código mais organizado e fácil a deixar o código mais organizado e fácil de entender. Em vez de fazer tudo solto, a gente pode criar objetos, que são como caixinhas que guardam informações e funções. Por exemplo, se estivermos criando um jogo, podemos ter um objeto como jogador com coisas como nome, pontuação e ações como pular e atacar. POO e um jeito de programar organizando tudo em objetos, que mostra so o que importa. Encapsulamento, que protege os dados, Herança, que reaproveita código de outros objetos e Polimorfismo, que permite que uma função se comporte de formas diferentes. É muito usada hoje em dia porque deixa os sistemas mais limpos, fáceis de entender e de mexer depois. Linguagens como JAVA E PYTHON usam bastante POO.
+
+•	-Exemplifique e explique um cenário de abstração;
+
+
 
 
 
